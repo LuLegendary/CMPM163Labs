@@ -14,6 +14,7 @@ Lab3  https://drive.google.com/file/d/1fyk6Cya3j07fXf8YVqvDyj6c_kAWJNih/view?usp
 
 
 Lab4 
+
 Quetstions in part2: 
 (a). x = 8u
 (b). 8 - 8u
@@ -21,4 +22,17 @@ Quetstions in part2:
      y = 8 - (8 * 0.25) = 6
      white
 
+
+https://drive.google.com/file/d/19GAlceW1hMDAsCl9E76WtfCZ11NG4hnP/view?usp=sharing
+
+
+Top left Cub: Without normal map
+
+Top mid Cub: The top left Cub with normal map
+
+Top right Cub: A custom Cub made with normal map
+
+Bottom left Cub: Cube made with the shaders in the example
+
+bottom right Cub: Cube made with my own shader. I use "if" to estimate the blocks of the texture, where should put it. Then I rescaled the texture and put them into the correct place
 
