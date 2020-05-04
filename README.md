@@ -36,3 +36,12 @@ Bottom left Cub: Cube made with the shaders in the example
 
 bottom right Cub: Cube made with my own shader. I use "if" to estimate the blocks of the texture, where should put it. Then I rescaled the texture and put them into the correct place
 
+
+
+Lab5
+
+https://drive.google.com/file/d/1qNaPg_AoCLyJV6HvkDyJ0PYBByH0gLW6/view?usp=sharing
+
+https://drive.google.com/file/d/1hqQU1w4EYueQTp3MH3Z9bRrsJZbGiiSb/view?usp=sharing
+
+https://drive.google.com/file/d/1iusEN9e-mUKnynU7142cOwI0tU9CtZR2/view?usp=sharing
