@@ -45,3 +45,25 @@ https://drive.google.com/file/d/1qNaPg_AoCLyJV6HvkDyJ0PYBByH0gLW6/view?usp=shari
 https://drive.google.com/file/d/1hqQU1w4EYueQTp3MH3Z9bRrsJZbGiiSb/view?usp=sharing
 
 https://drive.google.com/file/d/1iusEN9e-mUKnynU7142cOwI0tU9CtZR2/view?usp=sharing
+
+
+Lab6
+
+![](lAB6Scene.png)
+
+Direstional Light: Works like natural light/sun light. Only rotation affects.
+
+Point Light: Light emission from a point, works like a lightbulb. Rotation doesn't affect.
+
+Spot Light: Works like spot lamp. Both Rotation and position affect
+
+Area Light: It shines in all directions to one side of a rectangular plane. Always used to bake something
+
+Material: I tried to simulate the blue on Bud Light bottle. I added up the metallic to max(1) and added some smotheness to about half(0.5)
+
+Texture: A tile texture and a wood texture
+
+Skybox: The sunny day skybox
+
+
+
