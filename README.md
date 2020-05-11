@@ -49,7 +49,7 @@ https://drive.google.com/file/d/1iusEN9e-mUKnynU7142cOwI0tU9CtZR2/view?usp=shari
 
 Lab6
 
-![](lAB6Scene.png)
+![](lAB6/Scene.png)
 
 Direstional Light: Works like natural light/sun light. Only rotation affects.
 
