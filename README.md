@@ -47,6 +47,9 @@ https://drive.google.com/file/d/1hqQU1w4EYueQTp3MH3Z9bRrsJZbGiiSb/view?usp=shari
 https://drive.google.com/file/d/1iusEN9e-mUKnynU7142cOwI0tU9CtZR2/view?usp=sharing
 
 
+For the scene I designed my self, I first array the dots neatly by using the for loop. And in the animation function I animate them back and forth on the Z-axis by using the Sin methhod. So it would make people feel dazzled.
+
+
 Lab6
 
 ![](lAB6/Scene.png)
