@@ -76,7 +76,7 @@ https://drive.google.com/file/d/10GjIyz0MDbo-9NFwTpi3noHdYYrOVlv2/view?usp=shari
 
 How I made it:
 
-The Ball on the see is made with the tutorial.
+The Ball on the sea is made with the tutorial.
 
 The river and sea is made with the tutorial.
 
