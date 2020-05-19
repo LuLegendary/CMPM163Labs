@@ -70,3 +70,15 @@ Skybox: The sunny day skybox
 
 
 
+Lab7 
+
+https://drive.google.com/file/d/10GjIyz0MDbo-9NFwTpi3noHdYYrOVlv2/view?usp=sharing
+
+How I made it:
+
+The Ball on the see is made with the tutorial.
+
+The river and sea is made with the tutorial.
+
+I made the island by making two planes with the shader made by my own. The white parts is also made with a new shader, I tried to use it to simulate the snow. I also added some simple tree models, its made with simple sphere and cylinder. Also, I added 2 point light to light up the scene
+
