@@ -83,3 +83,11 @@ The river and sea is made with the tutorial.
 I made the island by making two planes with the shader made by my own. The white parts is also made with a new shader, I tried to use it to simulate the snow. I also added some simple tree models, its made with simple sphere and cylinder. Also, I added 2 point light to light up the scene
 
 The original part in my partner's scene is the moving ball and the skybox. The ball momve from bot top and change the shape overtime. The skybox is very pretty. I think the position of waves and mountain is pretty well, it fit into the scene. I really like the dusk- like skybox.
+
+Lab8
+
+My scene: https://drive.google.com/file/d/1Zv3BlsHgI4HUKvsp0H_iCY9xkmSF7ze2/view?usp=sharing
+
+Inspiration: https://drive.google.com/file/d/17EQEXseePxVVV8Vb9yDpeekyfEdWiGcP/view?usp=sharing
+
+The changes I made is to add grass lands with trees, and water to my city. It's a city with forst and lake. I simulate the picture that inspired me by adding forest that surround the lake. The lake material is the idea from last lab.
