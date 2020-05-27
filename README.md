@@ -91,3 +91,5 @@ My scene: https://drive.google.com/file/d/1Zv3BlsHgI4HUKvsp0H_iCY9xkmSF7ze2/view
 Inspiration: https://drive.google.com/file/d/17EQEXseePxVVV8Vb9yDpeekyfEdWiGcP/view?usp=sharing
 
 The changes I made is to add grass lands with trees, and water to my city. It's a city with forst and lake. I simulate the picture that inspired me by adding forest that surround the lake. The lake material is the idea from last lab.
+
+My partner did his assignment with Three.js. He simulated the image inspired him by using more low leveled but still varied models. I really like the scene he made that the city is under the starring sky.
